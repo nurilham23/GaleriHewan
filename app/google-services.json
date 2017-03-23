@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "446889509192",
+    "firebase_url": "https://galerihewan-14c71.firebaseio.com",
+    "project_id": "galerihewan-14c71",
+    "storage_bucket": "galerihewan-14c71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446889509192:android:266c6037fbb22563",
+        "android_client_info": {
+          "package_name": "zexal.org.galerihewan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446889509192-l72balu63iuceorrou22dooieeg3jmeo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zexal.org.galerihewan",
+            "certificate_hash": "24e78d83702314de367e620099c3b08352838b36"
+          }
+        },
+        {
+          "client_id": "446889509192-86cllb8pq7rilmb6jbtr51td9n6v623d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiqcDlR7uIcOnVZdWOHMbnyroLqs30Pb8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446889509192-86cllb8pq7rilmb6jbtr51td9n6v623d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
